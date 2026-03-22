@@ -1,0 +1,39 @@
+# Unity / Visual Studio .gitignore - vložte do kořene repozitáře
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+Builds/
+MemoryCaptures/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.pidb
+
+# C# / Mono / IDE
+*.csproj
+*.unityproj
+*.sln
+*.sln.dotsettings
+*.ncrunch*
+*.userosscache
+*.ide.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / generated
+*.log
+*.obj
+*.apk
+*.aab
+
+# Git LFS attributes
+.gitattributes
