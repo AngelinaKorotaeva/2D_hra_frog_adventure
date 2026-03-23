@@ -12,6 +12,7 @@ using UnityEngine;
     //{
     //    if (other.CompareTag("Player"))
     //    {
+    //
     //        Rigidbody2D rb = other.attachedRigidbody;
     //        if (rb != null)
     //        {
@@ -30,6 +31,7 @@ using UnityEngine;
     //                rb.AddForce(Vector2.right * boostForce, ForceMode2D.Force);
     //            }
     //        }
+    //
     //    }
     //}
 }
