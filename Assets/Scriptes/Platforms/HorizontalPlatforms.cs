@@ -51,4 +51,5 @@ public class HorizontalPlatforms : MonoBehaviour
             collision.transform.parent = null;
         }
     }
+
 }
