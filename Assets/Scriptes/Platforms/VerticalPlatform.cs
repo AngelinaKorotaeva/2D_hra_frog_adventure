@@ -8,7 +8,6 @@ public class VerticalPlatform : MonoBehaviour
     private bool movingUp;
     private float upEdge;
     private float downEdge;
-
     private void Awake()
     {
         float currentY = transform.position.y;
