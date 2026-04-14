@@ -1,0 +1,52 @@
+1) Sprites (vše je zdarma)
+  1. Pixel Adventure pack 1, 2 - https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+  https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
+  2. Backgrounds - https://slashdashgamesstudio.itch.io/cave-background-pixel-art
+  https://craftpix.net/freebies/free-summer-pixel-art-backgrounds/
+  https://8pxl.tumblr.com/post/694969916050325504/part-of-a-commission
+  3. Foreground
+    vines - https://www.google.com/search?q=vine+2d+pixel+game&sca_esv=c80bbe1f62332bda&udm=2&biw=1920&bih=869&sxsrf=AHTn8zpak6WNZVcmtQtTo-xKzO8-9ov1dQ%3A1746735222522&ei=dhAdaNPcH8yRi-gPxYubWA&ved=0ahUKEwjT79Hj15SNAxXMyAIHHcXFBgsQ4dUDCBE&uact=5&oq=vine+2d+pixel+game&gs_lp=EgNpbWciEnZpbmUgMmQgcGl4ZWwgZ2FtZUiyFFC2DFjVEnACeACQAQCYAVqgAfQDqgEBNrgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHjgKyBwC4BwA&sclient=img#vhid=Z7VBBZkLPU2D9M&vssid=mosaic
+    https://www.google.com/search?q=vine+2d+pixel+game&sca_esv=c80bbe1f62332bda&udm=2&biw=1920&bih=869&sxsrf=AHTn8zpak6WNZVcmtQtTo-xKzO8-9ov1dQ%3A1746735222522&ei=dhAdaNPcH8yRi-gPxYubWA&ved=0ahUKEwjT79Hj15SNAxXMyAIHHcXFBgsQ4dUDCBE&uact=5&oq=vine+2d+pixel+game&gs_lp=EgNpbWciEnZpbmUgMmQgcGl4ZWwgZ2FtZUiyFFC2DFjVEnACeACQAQCYAVqgAfQDqgEBNrgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHjgKyBwC4BwA&sclient=img#imgrc=Z7VBBZkLPU2D9M&imgdii=_Ja-cm-VP4kT-M
+    bushes - https://www.artstation.com/marketplace/p/kraX9/pixel-art-flower-pack 
+    crystals - https://dribbble.com/shots/20922779-Top-Down-Crystals-Pixel-Art
+    stones - https://cz.pinterest.com/pin/70437489814343/
+    https://cz.pinterest.com/pin/284923113919906943/
+    https://cz.pinterest.com/pin/63050463532372802/
+    portal - https://www.google.com/search?q=portal+2d+pixel+game+fig&sca_esv=c80bbe1f62332bda&udm=2&biw=1920&bih=869&sxsrf=AHTn8zpIxqPsdIlhMzGLOdRJzek0ej3moA%3A1746735564402&ei=zBEdaMuxGMfLwPAPiqK7yAg&ved=0ahUKEwjLx9SG2ZSNAxXHJRAIHQrRDokQ4dUDCBE&uact=5&oq=portal+2d+pixel+game+fig&gs_lp=EgNpbWciGHBvcnRhbCAyZCBwaXhlbCBnYW1lIGZpZ0icDVD_BFjXC3ABeACQAQCYAU-gAbYCqgEBNLgBA8gBAPgBAZgCAaACA8ICBxAjGCcYyQKYAwCIBgGSBwExoAe0AbIHALgHAA&sclient=img#vhid=aZzN5a-SsaK7SM&vssid=mosaic
+    water - https://cz.pinterest.com/pin/90846117478849768/
+    https://www.google.com/search?vsrid=CNOR-Zap4avs8QEQAhgBIiQ3MmNmNzA2OC03NmM3LTRkOTktYjUxZi03Y2EyZDRmZjc5OGI&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABEJwEGOACJQAAgD8&udm=26&lns_mode=un&source=lns.web.cntpubb&vsdim=540,352&gsessionid=RJNuXvDc4hP9hewfGb-YOXiApg8l8F4WpNNmh6ns6qv-clwfBYqe7Q&lsessionid=fy7GkDgz1ugaXJsau_uWppjMFMnOnEaEDodaeoSFkRb7l17lbQdwSA&lns_surface=44&lns_vfs=e&qsubts=1746735887987&biw=540&bih=352&hl=ru#vhid=QB0s7Xt117TBMM&vssid=mosaic
+    obstacle - https://www.google.com/search?q=obstacle+2d+pixel+game&sca_esv=c80bbe1f62332bda&udm=2&biw=1920&bih=869&sxsrf=AHTn8zppQ8x42hqreOZV6d9_4oCuRFFRgw%3A1746735760673&ei=kBIdaJHtKKS5wPAPovf0wAc&ved=0ahUKEwiR9Z_k2ZSNAxWkHBAIHaI7HXgQ4dUDCBE&uact=5&oq=obstacle+2d+pixel+game&gs_lp=EgNpbWciFm9ic3RhY2xlIDJkIHBpeGVsIGdhbWVI-xVQ2AZYkhRwAngAkAEAmAGAAaAB_QWqAQM3LjK4AQPIAQD4AQGYAgOgAlrCAgcQIxgnGMkCwgIGEAAYBxgewgIIEAAYBxgIGB7CAggQABgFGAcYHpgDAIgGAZIHATOgB_wGsgcBMbgHUw&sclient=img#vhid=YtawHE_MpPs4_M&vssid=mosaic
+    sword - https://www.google.com/search?q=sword++2d+pixel+game&sca_esv=c80bbe1f62332bda&udm=2&biw=1920&bih=869&sxsrf=AHTn8zp58PoBBHpJ2xgrWuO_eRql-8x8NQ%3A1746736117640&ei=9RMdaKnnJq2R1fIPtOjgsAo&ved=0ahUKEwjptbuO25SNAxWtSFUIHTQ0GKYQ4dUDCBE&uact=5&oq=sword++2d+pixel+game&gs_lp=EgNpbWciFHN3b3JkICAyZCBwaXhlbCBnYW1lMgYQABgIGB4yBhAAGAgYHkj1DlCyAVi8DHACeACQAQCYAVegAdoDqgEBNrgBA8gBAPgBAZgCBqAC7wPCAgYQABgHGB7CAggQABgHGAgYHpgDAIgGAZIHATagB68MsgcBNrgH7wM&sclient=img#imgrc=YdaIoiI8ZAmuQM&imgdii=ZsCUrrBTOgZ5OM
+    health - https://footagecrate.com/video-effects/footagecrate-health-bar-8bit-rpg
+    coin - https://www.google.com/search?q=coin+2d+pixel+game&sca_esv=c80bbe1f62332bda&udm=2&biw=1920&bih=869&sxsrf=AHTn8zq87cEQmNcEfolSaslZJoEGKIYpCg%3A1746736236556&ei=bBQdaMDdIZOm1fIPrZzc8AQ&ved=0ahUKEwjAw5XH25SNAxUTU1UIHS0OF04Q4dUDCBE&uact=5&oq=coin+2d+pixel+game&gs_lp=EgNpbWciEmNvaW4gMmQgcGl4ZWwgZ2FtZUin2nlQrtR5WNjYeXAMeACQAQCYAVCgAYEDqgEBNbgBA8gBAPgBAZgCAqACogHCAgYQABgHGB7CAggQABgHGAoYHsICCBAAGAcYCBgewgIKEAAYBxgIGAoYHsICCBAAGAUYBxgemAMAiAYBkgcBMqAH_wmyBwEyuAeiAQ&sclient=img#vhid=Jxg4BKZUo9MbmM&vssid=mosaic
+
+2) Tutorials & websites
+  1. https://docs.unity.com/
+  2. https://www.youtube.com/watch?v=TcranVQUQ5U&list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV&index=1
+  3. https://www.youtube.com/watch?v=RuvfOl8HhhM&t=77s
+  4. https://www.youtube.com/watch?v=5GWRPwuWtsQ&t=258s
+  5. https://www.youtube.com/watch?v=YKf1Yo58RYA&t=1s
+  6. https://www.youtube.com/watch?v=w8rRhAup4kg&t=1s
+  7. https://habr.com/ru/articles/828302/
+  8. https://ru.sharpcoderblog.com/blog/unity-3d-enemy-ai-tutorial-for-2d-platformer
+  9. https://ru.sharpcoderblog.com/blog/creating-2d-spikes-in-unity
+  10. https://ru.stackoverflow.com/questions/1219602/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-respawn-%D0%B2-unity-%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0-%D0%B2-%D0%B5%D0%B3%D0%BE-%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%82%D0%BE%D1%87%D0%BA%D0%B5-%D1%81%D0%BF%D1%83%D1%81%D1%82%D1%8F-%D0%B2
+
+3) Vlastní tvorba
+  Animace útoku postavy 
+  Všechny obrazovky hlavní nabídky, úrovně atd. (vyrobeno v programu Figma) - buttons, modrozelené průsvitné pozadí
+  1 úroveň
+    1. keře (s červenými a modrými plody).
+    2. Strom
+    3. Dům
+    4. lavička
+    5. běžná tráva a tráva s květy 
+  2 úroveň
+    1. rozcestník  
+    2. hroty visící ze stropu (4 varianty)
+ 3 úroveň
+    1. překreslený: fialová země a růžové květy, znečištění
+
+
+
+  
